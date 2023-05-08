@@ -1,0 +1,4 @@
+/* 스크린 화면 */
+@media screen {
+    body {background-color: seagreen;}
+}
